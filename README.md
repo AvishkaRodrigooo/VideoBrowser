@@ -11,9 +11,6 @@ This project is a **Video Browsing System**, developed as a group project during
 ## Create Channel
 ![image alert](https://github.com/AvishkaRodrigooo/VideoBrowser/blob/main/CreateChannel.png)
 
-## Job Application
-![image alert](https://github.com/AvishkaRodrigooo/Salon-Management-System/blob/master/JobApplication.png)
-
 ## Home page
 ![image alert](https://github.com/AvishkaRodrigooo/VideoBrowser/blob/main/Home.png)
 
